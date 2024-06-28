@@ -119,3 +119,7 @@
 ---
 
 Voila! Your webpage is hosted on Apache2
+
+AWS EC2 instance - http://54.226.224.67/ (will be taken down soon)
+
+for a full view, check - https://aaronstark019.github.io/simple-portfolio-hng/
